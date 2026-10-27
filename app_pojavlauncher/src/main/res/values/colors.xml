@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KotixLauncher: Dark Gaming palette -->
+    <color name="control_button_color">#4CC4C4C4</color>
+    <color name="control_button_pressed_color">#4D000000</color>
+
+    <color name="minebutton_color">#8B5CF6</color>
+    <color name="background_app">#0B0D12</color>
+    <color name="divider">@color/background_overlay</color>
+    <color name="background_overlay">#191E2B</color>
+    <color name="background_status_bar">#121620</color>
+    <color name="background_bottom_bar">#121620</color>
+
+    <color name="primary_text">#F4F5FC</color>
+    <color name="secondary_text">#969DB2</color>
+
+    <color name="kotix_accent">#8B5CF6</color>
+    <color name="kotix_neon">#A855F7</color>
+    <color name="kotix_card">#191E2B</color>
+</resources>
